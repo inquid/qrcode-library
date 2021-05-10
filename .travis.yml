@@ -4,7 +4,7 @@ sudo: false
 language: php
 
 php:
-  - 7.3
+  - 8.0
 
 env:
   - COMPOSER_MEMORY_LIMIT=-1
