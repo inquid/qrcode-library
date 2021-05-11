@@ -1,9 +1,10 @@
 {
-    "name": "2amigos/qrcode-library",
+    "name": "inquid/qrcode-library",
     "description": "QrCode Generator",
     "type": "library",
     "keywords": [
         "2amigos",
+        "inquid",
         "extension",
         "component",
         "qrcode",
